@@ -1,7 +1,6 @@
 # BariumOS
 
-![Status](https://img.shields.io/badge/status-in%20development-yellow)
-![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Ubuntu-orange)
+
 
 **BariumOS** is a coding-focused Linux Ubuntu distribution optimized for developers who demand streamlined workflows and comfortable viewing experiences. Built with OLED displays and dark mode in mind, BariumOS aims to be the ultimate development environment.
 
