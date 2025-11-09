@@ -1,6 +1,6 @@
 # BariumOS
 
-
+https://github.com/ProfessorEngineergit/BariumOS/blob/copilot/add-readme-file/Bildschirmfoto%202025-11-09%20um%2012.06.52.png
 
 **BariumOS** is a coding-focused Linux Ubuntu distribution optimized for developers who demand streamlined workflows and comfortable viewing experiences. Built with OLED displays and dark mode in mind, BariumOS aims to be the ultimate development environment.
 
